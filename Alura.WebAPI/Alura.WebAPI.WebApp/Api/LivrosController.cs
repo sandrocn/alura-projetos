@@ -1,4 +1,4 @@
-﻿using Alura.ListaLeitura.Modelos;
+using Alura.ListaLeitura.Modelos;
 using Alura.ListaLeitura.Persistencia;
 using Microsoft.AspNetCore.Mvc;
 using System.Linq;
@@ -85,6 +85,5 @@ namespace Alura.ListaLeitura.WebApp.Api
             _repo.Excluir(model);
             return NoContent(); //204
         }
-
     }
 }
