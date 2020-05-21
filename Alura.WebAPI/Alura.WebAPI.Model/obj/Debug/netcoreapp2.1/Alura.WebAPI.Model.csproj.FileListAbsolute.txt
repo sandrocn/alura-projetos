@@ -1,9 +1,9 @@
 C:\Cursos\Alura\Cursos\APIDotNetCore\Alura.WebAPI\Alura.WebAPI.Model\bin\Debug\netcoreapp2.1\Alura.WebAPI.Model.deps.json
 C:\Cursos\Alura\Cursos\APIDotNetCore\Alura.WebAPI\Alura.WebAPI.Model\bin\Debug\netcoreapp2.1\Alura.WebAPI.Model.dll
 C:\Cursos\Alura\Cursos\APIDotNetCore\Alura.WebAPI\Alura.WebAPI.Model\bin\Debug\netcoreapp2.1\Alura.WebAPI.Model.pdb
+C:\Cursos\Alura\Cursos\APIDotNetCore\Alura.WebAPI\Alura.WebAPI.Model\obj\Debug\netcoreapp2.1\Alura.WebAPI.Model.csprojAssemblyReference.cache
 C:\Cursos\Alura\Cursos\APIDotNetCore\Alura.WebAPI\Alura.WebAPI.Model\obj\Debug\netcoreapp2.1\Alura.WebAPI.Model.csproj.CoreCompileInputs.cache
 C:\Cursos\Alura\Cursos\APIDotNetCore\Alura.WebAPI\Alura.WebAPI.Model\obj\Debug\netcoreapp2.1\Alura.WebAPI.Model.AssemblyInfoInputs.cache
 C:\Cursos\Alura\Cursos\APIDotNetCore\Alura.WebAPI\Alura.WebAPI.Model\obj\Debug\netcoreapp2.1\Alura.WebAPI.Model.AssemblyInfo.cs
 C:\Cursos\Alura\Cursos\APIDotNetCore\Alura.WebAPI\Alura.WebAPI.Model\obj\Debug\netcoreapp2.1\Alura.WebAPI.Model.dll
 C:\Cursos\Alura\Cursos\APIDotNetCore\Alura.WebAPI\Alura.WebAPI.Model\obj\Debug\netcoreapp2.1\Alura.WebAPI.Model.pdb
-C:\Cursos\Alura\Cursos\APIDotNetCore\Alura.WebAPI\Alura.WebAPI.Model\obj\Debug\netcoreapp2.1\Alura.WebAPI.Model.csprojAssemblyReference.cache

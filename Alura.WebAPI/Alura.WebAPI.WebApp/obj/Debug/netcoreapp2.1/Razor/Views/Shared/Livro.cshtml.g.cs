@@ -60,7 +60,7 @@ using Alura.ListaLeitura.WebApp.Models;
             WriteLiteral("\n<li class=\"list-group-item my-3 mx-5 border-0\">\n    ");
             EndContext();
             BeginContext(69, 194, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4b37aedcfda3449c8a1c2764ee7fb8c3", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ba558d02fdbf4b7f97931779453358a7", async() => {
                 BeginContext(142, 37, true);
                 WriteLiteral("\n        <img class=\"livro img-fluid\"");
                 EndContext();
