@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "lbsSjCzz1w3Q8LGclNYbrlr7J0U4JTi7vDfuCwTmhHVI3ep+nvzBfV00K9MczYEeh/k9EPPT7tG5Er481R3tSw==",
+  "dgSpecHash": "l/blV07GKaGgbiLWdS8Zom3GqmdqFSERFyhnwjbBZ7CUdAFEGcVe/J2DjfCHkZ5W/krd6moqgZha70G/ngB1KQ==",
   "success": true,
   "projectFilePath": "C:\\Cursos\\Alura\\Cursos\\APIDotNetCore\\Alura.WebAPI\\Alura.WebAPI.WebApp\\Alura.WebAPI.WebApp.csproj",
   "expectedPackageFiles": [
