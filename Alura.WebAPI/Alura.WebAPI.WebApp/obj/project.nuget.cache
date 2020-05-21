@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "l/blV07GKaGgbiLWdS8Zom3GqmdqFSERFyhnwjbBZ7CUdAFEGcVe/J2DjfCHkZ5W/krd6moqgZha70G/ngB1KQ==",
+  "dgSpecHash": "5YwLiv+wx0yZ5tN7wYFQR4W7yzAjFB7c+ut6wwlS0JK7dO9RJI8oJQ5/H1AdVS3JWlaTKqC4AxY3YqZVoosknQ==",
   "success": true,
   "projectFilePath": "C:\\Cursos\\Alura\\Cursos\\APIDotNetCore\\Alura.WebAPI\\Alura.WebAPI.WebApp\\Alura.WebAPI.WebApp.csproj",
   "expectedPackageFiles": [
@@ -156,6 +156,7 @@
     "C:\\Users\\Sandro\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\2.1.0\\microsoft.extensions.options.configurationextensions.2.1.0.nupkg.sha512",
     "C:\\Users\\Sandro\\.nuget\\packages\\microsoft.extensions.primitives\\2.1.0\\microsoft.extensions.primitives.2.1.0.nupkg.sha512",
     "C:\\Users\\Sandro\\.nuget\\packages\\microsoft.extensions.webencoders\\2.1.0\\microsoft.extensions.webencoders.2.1.0.nupkg.sha512",
+    "C:\\Users\\Sandro\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\5.2.4\\microsoft.identitymodel.jsonwebtokens.5.2.4.nupkg.sha512",
     "C:\\Users\\Sandro\\.nuget\\packages\\microsoft.identitymodel.logging\\5.2.4\\microsoft.identitymodel.logging.5.2.4.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.identitymodel.protocols\\5.2.0\\microsoft.identitymodel.protocols.5.2.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.identitymodel.protocols.openidconnect\\5.2.0\\microsoft.identitymodel.protocols.openidconnect.5.2.0.nupkg.sha512",
@@ -231,7 +232,7 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.globalization\\4.3.0\\system.globalization.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.globalization.calendars\\4.3.0\\system.globalization.calendars.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.globalization.extensions\\4.3.0\\system.globalization.extensions.4.3.0.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.identitymodel.tokens.jwt\\5.2.0\\system.identitymodel.tokens.jwt.5.2.0.nupkg.sha512",
+    "C:\\Users\\Sandro\\.nuget\\packages\\system.identitymodel.tokens.jwt\\5.2.4\\system.identitymodel.tokens.jwt.5.2.4.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.interactive.async\\3.1.1\\system.interactive.async.3.1.1.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.io.compression\\4.3.0\\system.io.compression.4.3.0.nupkg.sha512",
