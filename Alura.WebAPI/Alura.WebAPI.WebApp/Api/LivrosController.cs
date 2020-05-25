@@ -1,10 +1,14 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
 using Alura.ListaLeitura.Modelos;
 using Alura.ListaLeitura.Persistencia;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
-using System.Linq;
+using Microsoft.AspNetCore.Mvc.Formatters;
 
-namespace Alura.ListaLeitura.WebApp.Api
+namespace Alura.WebAPI.WebApp.Api
 {
     [Authorize]
     [ApiController]
@@ -18,6 +22,13 @@ namespace Alura.ListaLeitura.WebApp.Api
             _repo = repository;
         }
 
+        [HttpGet]
+        public IActionResult ListaDeLivros()
+        {
+            var lista = _repo.All.Select(l => l.ToApi()).ToList();
+            return Ok(lista);
+        }
+
         [HttpGet("{id}")]
         public IActionResult Recuperar(int id)
         {
@@ -26,7 +37,7 @@ namespace Alura.ListaLeitura.WebApp.Api
             {
                 return NotFound();
             }
-            return Ok(model.ToModel());
+            return Ok(model.ToApi());
         }
 
         [HttpGet("{id}/capa")]
@@ -83,9 +94,8 @@ namespace Alura.ListaLeitura.WebApp.Api
             {
                 return NotFound();
             }
-
             _repo.Excluir(model);
-            return NoContent(); //204
+            return NoContent(); //203
         }
     }
 }

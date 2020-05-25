@@ -45,14 +45,6 @@
       "frameworks": {
         "netcoreapp2.1": {
           "dependencies": {
-            "Microsoft.AspNetCore.Authentication.JwtBearer": {
-              "target": "Package",
-              "version": "[2.1.0, )"
-            },
-            "Microsoft.AspNetCore.Mvc.Formatters.Xml": {
-              "target": "Package",
-              "version": "[2.1.0, )"
-            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[2.1.0, )"
@@ -66,10 +58,6 @@
               "target": "Package",
               "version": "[2.1.0, )",
               "autoReferenced": true
-            },
-            "System.IdentityModel.Tokens.Jwt": {
-              "target": "Package",
-              "version": "[5.2.4, )"
             }
           },
           "imports": [
@@ -123,15 +111,7 @@
       "frameworks": {
         "netcoreapp2.1": {
           "dependencies": {
-            "Microsoft.AspNetCore.Authentication.JwtBearer": {
-              "target": "Package",
-              "version": "[2.1.0, )"
-            },
             "Microsoft.AspNetCore.Http.Features": {
-              "target": "Package",
-              "version": "[2.1.0, )"
-            },
-            "Microsoft.AspNetCore.Mvc.Formatters.Xml": {
               "target": "Package",
               "version": "[2.1.0, )"
             },
@@ -140,10 +120,6 @@
               "target": "Package",
               "version": "[2.1.0, )",
               "autoReferenced": true
-            },
-            "System.IdentityModel.Tokens.Jwt": {
-              "target": "Package",
-              "version": "[5.2.4, )"
             }
           },
           "imports": [
