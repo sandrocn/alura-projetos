@@ -21,10 +21,10 @@ namespace Alura.ListaLeitura.Modelos
         public int Id { get; set; }
         public string Titulo { get; set; }
         public string Subtitulo { get; set; }
-        public string Autor { get; set; }
         public string Resumo { get; set; }
         public string ImagemCapa { get; set; }
-        public TipoListaLeitura Lista { get; set; }
+        public string Autor { get; set; }
+        public string Lista { get; set; }
     }
 
     public class LivroUpload

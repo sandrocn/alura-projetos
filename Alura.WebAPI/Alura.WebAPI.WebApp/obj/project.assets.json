@@ -4637,11 +4637,8 @@
         "framework": ".NETCoreApp,Version=v2.1",
         "dependencies": {
           "Alura.WebAPI.Model": "1.0.0",
-          "Microsoft.AspNetCore.Authentication.JwtBearer": "2.1.0",
-          "Microsoft.AspNetCore.Mvc.Formatters.Xml": "2.1.0",
           "Microsoft.EntityFrameworkCore": "2.1.0",
-          "Microsoft.EntityFrameworkCore.Relational": "2.1.0",
-          "System.IdentityModel.Tokens.Jwt": "5.2.4"
+          "Microsoft.EntityFrameworkCore.Relational": "2.1.0"
         },
         "compile": {
           "bin/placeholder/Alura.WebAPI.DAL.Livros.dll": {}
@@ -4654,12 +4651,9 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.0",
         "dependencies": {
-          "Microsoft.AspNetCore.Authentication.JwtBearer": "2.1.0",
           "Microsoft.AspNetCore.Identity": "2.1.0",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "2.1.0",
-          "Microsoft.AspNetCore.Mvc.Formatters.Xml": "2.1.0",
-          "Microsoft.EntityFrameworkCore.Relational": "2.1.0",
-          "System.IdentityModel.Tokens.Jwt": "5.2.4"
+          "Microsoft.EntityFrameworkCore.Relational": "2.1.0"
         },
         "compile": {
           "bin/placeholder/Alura.WebAPI.DAL.Usuarios.dll": {}
@@ -4672,10 +4666,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.1",
         "dependencies": {
-          "Microsoft.AspNetCore.Authentication.JwtBearer": "2.1.0",
-          "Microsoft.AspNetCore.Http.Features": "2.1.0",
-          "Microsoft.AspNetCore.Mvc.Formatters.Xml": "2.1.0",
-          "System.IdentityModel.Tokens.Jwt": "5.2.4"
+          "Microsoft.AspNetCore.Http.Features": "2.1.0"
         },
         "compile": {
           "bin/placeholder/Alura.WebAPI.Model.dll": {}
@@ -4687,12 +4678,6 @@
       "Alura.WebAPI.Seguranca/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.1",
-        "dependencies": {
-          "Microsoft.AspNetCore.Authentication.JwtBearer": "2.1.0",
-          "Microsoft.AspNetCore.Mvc.Formatters.Xml": "2.1.0",
-          "Microsoft.IdentityModel.Tokens": "5.2.4",
-          "System.IdentityModel.Tokens.Jwt": "5.2.4"
-        },
         "compile": {
           "bin/placeholder/Alura.WebAPI.Seguranca.dll": {}
         },

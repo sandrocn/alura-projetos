@@ -1,0 +1,4 @@
+C:\Cursos\Alura\Cursos\APIDotNetCore\Alura.WebAPI\Alura.WebAPI.Api\obj\Debug\netcoreapp2.1\Alura.WebAPI.Api.csprojAssemblyReference.cache
+C:\Cursos\Alura\Cursos\APIDotNetCore\Alura.WebAPI\Alura.WebAPI.Api\obj\Debug\netcoreapp2.1\Alura.WebAPI.Api.csproj.CoreCompileInputs.cache
+C:\Cursos\Alura\Cursos\APIDotNetCore\Alura.WebAPI\Alura.WebAPI.Api\obj\Debug\netcoreapp2.1\Alura.WebAPI.Api.AssemblyInfoInputs.cache
+C:\Cursos\Alura\Cursos\APIDotNetCore\Alura.WebAPI\Alura.WebAPI.Api\obj\Debug\netcoreapp2.1\Alura.WebAPI.Api.AssemblyInfo.cs
